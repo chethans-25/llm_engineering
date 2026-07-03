@@ -1,0 +1,21 @@
+Notes
+
+LLMs Comes in 3 Flavours
+
+Base
+Better for Fine-tuning to learn a new skill
+
+Chat/instruct
+Better for interactive use cases and creative content generation
+
+Reasoning and Thinking
+Better for problem solving
+
+
+Frontier Model and their chat products
+Provider- Model- Chat
+OpenAI      GPT       ChatGPT
+Anthropic   Claude    Claude
+Google      Gemini    Gemini advance
+x.ai        Grok      Grok
+Deepseek AI Deepseek  Deepseek
